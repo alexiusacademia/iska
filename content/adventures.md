@@ -3,6 +3,7 @@ title: "Adventures"
 date: 2018-05-21
 draft: false
 weight: 20
+background: "/images/pinatubo_crater_sign.jpg"
 ---
 
 <img src="/images/pinatubo_hike.jpg" alt="" width=100% />
