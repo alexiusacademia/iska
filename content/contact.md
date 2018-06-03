@@ -9,11 +9,10 @@ menuname: "Contact"
 #### Please use the contact form below to reach us
 
 ```
-Contact form is being written at the moment...
-Please bear with me...
+Under development...
 
 ```
-<form id="contactform" method="post" action="https://formspree.io/insert.your@mail.adress">
+<form id="contactform" method="post" action="https://formspree.io/alexius.academia@gmail.com">
 	<div class="field half first">
 		<input type="text" name="name" id="name" placeholder="Name"/>
 	</div>
@@ -28,7 +27,7 @@ Please bear with me...
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 	<input type="hidden" name="_next" value="?sent#formspree" />
-	<input type="hidden" name="_subject" value="Subject for your mail like new message" />
+	<input type="hidden" name="_subject" value="New Mail" />
 	<input type="text" name="_gotcha" style="display:none" />
 </form>
 <span id="contactformsent">Thank you for your message</span>
