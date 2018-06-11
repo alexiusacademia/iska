@@ -1,5 +1,5 @@
 ---
-title: "Feeds"
+title: "Bing Maniquiz"
 date: 2018-05-22
 draft: false
 weight: 50
