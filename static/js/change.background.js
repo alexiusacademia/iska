@@ -28,7 +28,7 @@
     });
 
     refresh.click(() => {
-      bg.attr('style', 'background-image: url("/images/new_side_of_stroke.jpg")');
+      bg.attr('style', 'background-image: url("/images/refresh/bancal_2.jpg")');
     });
 
     projects.click(() => {

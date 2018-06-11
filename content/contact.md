@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 date: 2018-05-28T14:46:55+08:00
-draft: false
+draft: true
 weight: 60
 menuname: "Contact"
 ---
