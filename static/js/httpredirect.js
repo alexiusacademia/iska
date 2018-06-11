@@ -1,1 +1,1 @@
-//if (location.protocol !== "https:") location.protocol = "https:";
+if (location.protocol !== "https:") location.protocol = "https:";
