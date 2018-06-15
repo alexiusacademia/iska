@@ -9,10 +9,12 @@ disableKinds=["RSS"]
 [params]
   description = '<!--[-->A new side of Botolan<!--]--><br />
                 <!--[-->...Yours to discover...<!--]-->'
-  logo = "fa-binoculars"
+  # logo = "fa-binoculars"
+  logoimage = "images/botolan_tourism.png"
   copyright = "Copyright"
   cyear = "2018"
   powered = "Syncsoft Solutions"
+  keywords = ["Pinatubo", "Botolan", "Botolan Adventures", "Tukal tukal", "Tukal tukal falls"]
 
 [[params.social]]
   medium = "twitter"
